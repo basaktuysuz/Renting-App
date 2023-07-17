@@ -1,1 +1,1 @@
-# Rentinng-App
+# Renting-App
