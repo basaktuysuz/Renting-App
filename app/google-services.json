@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634946248013",
+    "project_id": "basak-f6e6d",
+    "storage_bucket": "basak-f6e6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634946248013:android:759f1e3196fef7834deb04",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634946248013-5kvqekdajree32kuofecaia7ljsk934c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDeSZoIPVFAHZ2J3txpICRfTl2R96vlyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634946248013-5kvqekdajree32kuofecaia7ljsk934c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
